@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Soy un desarrollador web con experiencia en áreas como el soporte técnico. Me destaco por identificar y abordar eficazmente las necesidades del proyecto, gestionando recursos de manera efectiva. Mi enfoque apasionado y comprometido se refleja en la mejora continua y en mi capacidad para mantener un ambiente positivo. Soy un profesional proactivo y carismático, siempre dispuesto a superar desafíos y contribuir al éxito del equipo.
+
 <!--
 **GPrensLuna/GPrensLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
