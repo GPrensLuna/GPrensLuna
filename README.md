@@ -17,6 +17,8 @@ Disfruto trabajando con una variedad de tecnologías, algunas de las cuales incl
   -  JavaScript.
   -  React.
   -  Next.js.
+  -  Angular
+  -  nest.js
   -  Node.js.
   -  posgreSQL.
   -  Css.
